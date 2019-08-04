@@ -2,6 +2,7 @@
 using System.Windows;
 using ADPlayer.VIews;
 using Prism.Ioc;
+using Prism.Modularity;
 using Prism.Unity;
 
 namespace ADPlayer
@@ -29,6 +30,11 @@ namespace ADPlayer
         }
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
+        {
+            
+        }
+
+        protected override void ConfigureModuleCatalog(IModuleCatalog moduleCatalog)
         {
             
         }
