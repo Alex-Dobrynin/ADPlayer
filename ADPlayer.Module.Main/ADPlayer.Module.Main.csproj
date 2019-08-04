@@ -12,4 +12,8 @@
     <None Remove="Views\MainContainerView.xaml" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Prism.Wpf" Version="7.2.0.1367" />
+  </ItemGroup>
+
 </Project>
