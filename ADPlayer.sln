@@ -5,6 +5,14 @@ VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADPlayer", "ADPlayer\ADPlayer.csproj", "{2AEA417A-E91D-493D-8996-85AC6E06D960}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{75E22470-6D0A-4DAB-A89D-4D4D3D15FF5F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{982E8F88-43E1-4A73-A1DC-D317D6F18F21}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{26296AD2-F3C3-4B78-8C0D-CAE1457801E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{7A4A0CE9-27B8-4713-88B9-CF70CB1086D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
